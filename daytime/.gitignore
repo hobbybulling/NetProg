@@ -1,0 +1,3 @@
+*.o
+daytime_client
+build/
